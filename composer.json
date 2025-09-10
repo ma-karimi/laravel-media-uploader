@@ -1,6 +1,6 @@
 {
     "name": "ma-karimi/laravel-media-uploader",
-    "description": "This package used to upload files using laravel-media-library | Forked from ahmed-aliraqi/laravel-media-uploader",
+        "description": "This package used to upload files using laravel-media-library | Forked from ahmed-aliraqi/laravel-media-uploader",
     "type": "library",
     "license": "MIT",
     "authors": [
